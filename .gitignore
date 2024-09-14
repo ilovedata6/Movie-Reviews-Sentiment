@@ -1,0 +1,4 @@
+venv/
+*.pdf
+*.html
+.ipynb_checkpoints
